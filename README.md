@@ -1,2 +1,2 @@
 # angularApp
-aplicación prueba
+aplicación  Angular para fùtbol
